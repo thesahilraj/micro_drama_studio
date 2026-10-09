@@ -1,37 +1,8 @@
-# NAMES — USER CONTROLLED
+# Names — Living Master Mapping
 
-Use this file to define custom names.
+AUTO-GENERATED ON FIRST RUN.
+AUTO-UPDATED AFTER EACH EPISODE/BATCH.
+USER EDITS HAVE HIGHEST PRIORITY.
 
-## Characters
-
-| Original | Custom |
-|---|---|
-| | |
-
-## Places
-
-| Original | Custom |
-|---|---|
-| | |
-
-## Organizations
-
-| Original | Custom |
-|---|---|
-| | |
-
-## Objects / Items
-
-| Original | Custom |
-|---|---|
-| | |
-
-## Titles / Terms
-
-| Original | Custom |
-|---|---|
-| | |
-
-RULE:
-Apply these mappings everywhere in generated outputs.
-Do not modify this file automatically.
+No mappings have been locked yet.
+The orchestrator should extract source names, aliases, titles, places and terms from the supplied chapters.

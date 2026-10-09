@@ -1,37 +1,8 @@
-# CHARACTERS — USER CONTROLLED
+# Characters — Living Master Canon
 
-This is a canonical user-editable file.
+AUTO-GENERATED ON FIRST RUN.
+AUTO-UPDATED AFTER EACH EPISODE/BATCH.
+USER EDITS HAVE HIGHEST PRIORITY.
 
-Use one section per character.
-
-## Character Template
-
-### CHAR-001
-- Original Name:
-- Custom Name:
-- Role:
-- Age:
-- Gender:
-- Appearance:
-- Face:
-- Eyes:
-- Hair:
-- Skin:
-- Build:
-- Clothing:
-- Accessories:
-- Distinctive Marks:
-- Personality:
-- Voice Direction:
-- Important Relationships:
-- Visual Reference Path:
-- Notes:
-
----
-
-Add more characters using CHAR-002, CHAR-003, etc.
-
-IMPORTANT:
-- This file has higher priority than model assumptions.
-- Do not silently overwrite it.
-- If a field is blank, infer only what the chapters support and flag uncertain fields in QA.
+No characters have been locked yet.
+The orchestrator should extract and assign permanent CHAR IDs from the supplied chapters.
